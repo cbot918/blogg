@@ -1,11 +1,11 @@
 ---
-title: "Go Tutor 01"
+title: "01 Go Getting Started"
 date: 2023-06-21T22:34:02+08:00
 draft: true
 ---
 ## Setup Golang Development
 1. [install golang](https://go.dev/doc/install)
-2. check version 
+2. check version
 ```bash 
 go version 
 ```
