@@ -5,12 +5,13 @@ draft: true
 ---
 
 ## Go Basic
-Golang 在學習時, 主要掌握
-1. error handle
-2. struct 
-3. composite object orient
+Golang 在學習時, 主要優先掌握(或說習慣)
+1. struct寫法
+2. composite object orient
+3. error handle的方式 
 4. json處理
-就可以以一個比較容易的方式快速上手
+
+就可以以一個比較容易的角度方式快速上手
 但以下會從基礎開始介紹
 
 
