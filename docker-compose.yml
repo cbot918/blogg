@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  blogg:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: bloggi
+    container_name: bloggc
+    network_mode: bridge
+    ports:
+      - "1313:1313"
+    restart: always
+    
