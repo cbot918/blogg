@@ -33,4 +33,9 @@ func main(){
 }
 ```
 
+4. run the code
+```
+go run .
+```
+
 source code [Github](https://github.com/cbot918)
