@@ -20,3 +20,5 @@ https://code.visualstudio.com/
 ## 安裝golang extension
 一般來說不用自行搜尋, vscode偵測到.go檔案會在右下角跳出是否需要安裝視窗, 就讓他自行安裝(要等一下)
 想要手動安裝的話, 就在視窗左方Extensions 搜尋go, 找最多下載數的下載
+
+下一篇[01-hello](https://github.com/cbot918/blogg/blob/main/content/posts/%5Bgo-tutor%5D01-hello.md)
