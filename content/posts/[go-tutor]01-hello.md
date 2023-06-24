@@ -40,4 +40,4 @@ go run .
 
 source code [Github](https://github.com/cbot918)
 
-#### 下一篇[02-go-basic](https://github.com/cbot918/blogg/blob/main/content/posts/%5Bgo-tutor%5D02-go-basic.md)
+#### 下一篇 [02-go-basic](https://github.com/cbot918/blogg/blob/main/content/posts/%5Bgo-tutor%5D02-go-basic.md)

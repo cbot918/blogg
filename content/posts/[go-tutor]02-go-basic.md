@@ -108,4 +108,4 @@ for index,item := range people {
 
 專案  [Github Source Code](https://github.com/cbot918/go-tutor/tree/main/02-go-basic)
 
-#### 下一篇[02-go-object-oriented](https://github.com/cbot918/blogg/blob/main/content/posts/%5Bgo-tutor%5D03-go-object-oriented.md)
+#### 下一篇 [02-go-object-oriented](https://github.com/cbot918/blogg/blob/main/content/posts/%5Bgo-tutor%5D03-go-object-oriented.md)
