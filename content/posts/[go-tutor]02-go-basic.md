@@ -60,7 +60,7 @@ PrintHello()
 func PrintHelloTo(message string) {
   fmt.Println("Hello "+ message)
 }
-PrintParamTo("Yale")
+PrintHelloTo("Yale")
 
 // 有參數及返回值的函式(盡量用這種, 寫純函式是好習慣)
 func GetHelloString(message string) string {
